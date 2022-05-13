@@ -1,0 +1,112 @@
+body {
+    background-color: #d6e1fd;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    width: 47%;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    margin-top: 1rem
+
+}
+
+.order {
+    font-size: 1.1rem;
+    font-weight: bold ;
+    margin-top: 1.3rem;
+}
+.attribution {
+    margin-top: 1rem;
+}
+
+.plano-musical {
+    border-radius: 15px;
+}
+
+.menina-fone {
+   border-radius: 15px 15px 0px 0px;
+}
+
+.plano-musical {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f6f7ff;
+    width: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    padding: 0.3rem 0.8rem ;
+}
+
+.preco-plano {
+    color: rgb(104, 98, 98);
+    font-size: 0.8rem;
+   
+}
+
+b {
+    color: black;
+    font-size: 0.8rem;
+}
+
+.change {
+    border: none;
+    background-color:#f6f7ff;
+    color: rgb(17, 17, 176);
+    text-decoration: underline;
+    font-weight: bold ;
+    cursor: pointer;
+    font-size: 0.68rem;
+}
+
+.change:hover {
+    color: rgb(127, 127, 253);
+
+}
+
+.text1 {
+    color: #7b7c7f;
+    line-height: 1.1rem;
+    font-size: 0.8rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.botao-roxo {
+   border: none;
+   margin-top: 2rem;
+   background-color:rgb(127, 127, 253);
+   color: white;
+   width: 80%;
+   border-radius: 7px;
+   font-size: 0.7rem;
+   height: 40px;
+   font-weight: bold ;
+   cursor: pointer;
+   box-shadow: 2px 7px 7px #cdd0d8;
+}
+
+.botao-roxo:hover {
+    background-color: rgb(150, 150, 248);
+}
+
+.cancel {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    font-size: 0.7rem;
+    font-weight: bold ;
+    cursor: pointer;
+}
+
+.music {
+  width: 17%;
+}
+
+.menina-fone {
+    width: 100%;
+}
