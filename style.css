@@ -78,6 +78,7 @@ b {
     font-size: 0.8rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
+    margin: 1.6rem;
 }
 
 .botao-roxo {
@@ -88,7 +89,7 @@ b {
    width: 80%;
    border-radius: 7px;
    font-size: 0.7rem;
-   height: 40px;
+   height: 1.7rem;
    font-weight: bold ;
    cursor: pointer;
    box-shadow: 2px 7px 7px #cdd0d8;
@@ -107,7 +108,7 @@ b {
 }
 
 .music {
-  width: 17%;
+  width: 2rem;
 }
 
 .menina-fone {
